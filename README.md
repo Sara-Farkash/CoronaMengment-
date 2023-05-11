@@ -6,12 +6,12 @@ for API documentation.
 The project simulates a Mengment for HMO for Covid with 3 tables:
 Ill, Vecanition, User1 
 
-#Prerequisites 
+# Prerequisites 
 - Visual Studio 2022
 - .NET Core
 - SQL Server
 
-#To Begin :
+# To Begin :
 1. please download the project to your local machine.
 2. open the project in Visual Studio.
 3. open your Sql Server and when you connect to sql you need to see the "conntion string"
