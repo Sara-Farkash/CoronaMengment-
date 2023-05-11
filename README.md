@@ -28,7 +28,7 @@ The project also uses Swagger for API .
 
 Now you can add values in the Swagger 
 and they will be updated in the database. 
-# Note ❤ that you must enter logical and correct data because otherwise the data will not enter the database.
+Note that you must enter logical and correct data because otherwise the data will not enter the database.
 For example you want to enter a new user
 You go to the "post" button and then you fill in the data and run
 Now if you want to see the data you added you must use the "get" button,
