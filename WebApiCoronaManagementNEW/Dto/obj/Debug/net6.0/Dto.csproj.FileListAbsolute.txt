@@ -1,0 +1,52 @@
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Dto\bin\Debug\net6.0\Dto.deps.json
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Dto\bin\Debug\net6.0\Dto.dll
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Dto\bin\Debug\net6.0\Dto.pdb
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.dll
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\refint\Dto.dll
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.pdb
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\ref\Dto.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Dto\bin\Debug\net6.0\Dto.deps.json
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Dto\bin\Debug\net6.0\Dto.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Dto\bin\Debug\net6.0\Dto.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\refint\Dto.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\ref\Dto.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Dto\bin\Debug\net6.0\Dto.deps.json
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Dto\bin\Debug\net6.0\Dto.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Dto\bin\Debug\net6.0\Dto.pdb
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\refint\Dto.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.pdb
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\ref\Dto.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Dto\bin\Debug\net6.0\Dto.runtimeconfig.json
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.genruntimeconfig.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Dto\bin\Debug\net6.0\Dto.deps.json
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Dto\bin\Debug\net6.0\Dto.runtimeconfig.json
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Dto\bin\Debug\net6.0\Dto.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Dto\bin\Debug\net6.0\Dto.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\refint\Dto.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\Dto.genruntimeconfig.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Dto\obj\Debug\net6.0\ref\Dto.dll

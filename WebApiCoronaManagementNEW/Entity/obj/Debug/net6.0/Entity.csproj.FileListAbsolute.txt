@@ -1,0 +1,56 @@
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Entity\obj\Debug\net6.0\ref\Entity.dll

@@ -1,0 +1,80 @@
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Bll.deps.json
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Bll.dll
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Bll.pdb
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.AssemblyInfo.cs
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.dll
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\refint\Bll.dll
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.pdb
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\ref\Bll.dll
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dal.dll
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dto.dll
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Entity.dll
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dal.pdb
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dto.pdb
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Entity.pdb
+C:\Users\1\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.csproj.CopyComplete
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Bll.deps.json
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Bll.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Bll.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dal.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dto.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Entity.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dal.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dto.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Entity.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.AssemblyInfo.cs
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.csproj.CopyComplete
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\refint\Bll.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\ref\Bll.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Bll.deps.json
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Bll.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Bll.pdb
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dal.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dto.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Entity.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dal.pdb
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dto.pdb
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Entity.pdb
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.csproj.AssemblyReference.cache
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.AssemblyInfoInputs.cache
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.AssemblyInfo.cs
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.csproj.CopyComplete
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\refint\Bll.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.pdb
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\ref\Bll.dll
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Bll.runtimeconfig.json
+C:\Users\talya\Downloads\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.genruntimeconfig.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Bll.deps.json
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Bll.runtimeconfig.json
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Bll.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Bll.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dal.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dto.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Entity.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dal.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Dto.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\bin\Debug\net6.0\Entity.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.AssemblyInfo.cs
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.csproj.CopyComplete
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\refint\Bll.dll
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.pdb
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\Bll.genruntimeconfig.cache
+C:\Users\1\Desktop\שרי פרוייקט -הדסים\CoronaManagement Project\צד שרת\CM_NEW\WebApiCoronaManagementNEW\Bll\obj\Debug\net6.0\ref\Bll.dll
