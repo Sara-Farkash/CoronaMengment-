@@ -4,7 +4,7 @@ This is a C# project developed in ASP.NET Core Web Application
 using the 4-layer Entity Framework method and Swagger  
 for API documentation.
 The project simulates a Mengment for HMO for Covid with 3 tables:
-Ill, Vecanition, User1 
+Ill, Vaccination, User1 
 
 # Prerequisites 
 - Visual Studio 2022
